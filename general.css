@@ -1,0 +1,12 @@
+ p {
+      font-family: roboto, arial;
+      margin: 0;
+    }
+
+    body {
+        margin: 0;
+        padding-top: 80px;
+        padding-left: 96px;
+        padding-right: 24px;
+        background: linear-gradient(113.5deg, rgb(234, 234, 234) 22.3%, rgb(201, 234, 211) 56.6%, rgb(255, 180, 189) 90.9%);
+    }
